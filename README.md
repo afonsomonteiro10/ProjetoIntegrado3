@@ -1,10 +1,17 @@
-# ProjetoIntegrado3
+# 🌐 ProjetoIntegrado3
 
-Perfil de estágio (por ordem de preferência):
-Cibersegurança, Programação Back-End
+---
 
-Recursos de apoio na minha aprendizagem
-https://www.udemy.com/course/learn-ethical-hacking-from-scratch/
-https://pwn.college/
-https://tryhackme.com/
-https://academy.hackthebox.com/
+## 🧭 **Perfil de Estágio (por ordem de preferência)**
+
+1. **💻 Cibersegurança**
+2. **⚙️ Programação Back‑End**
+
+---
+
+## 📚 **Recursos de Apoio na Minha Aprendizagem**
+
+* [Udemy – Learn Ethical Hacking From Scratch](https://www.udemy.com/course/learn-ethical-hacking-from-scratch/)
+* [pwn.college](https://pwn.college/)
+* [TryHackMe](https://tryhackme.com/)
+* [Hack The Box Academy](https://academy.hackthebox.com/)
