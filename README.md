@@ -12,5 +12,5 @@
 ## 📚 **Recursos de Apoio na Minha Aprendizagem**
 
 * [Udemy – Learn Ethical Hacking From Scratch](https://www.udemy.com/course/learn-ethical-hacking-from-scratch/)
-* [Junior Cybersecurity Analyst](https://www.netacad.com/career-paths/cybersecurity)
-* [Back-End Development with Python](https://www.freecodecamp.org/news/backend-web-development-with-python-full-course/)
+* [Cisco Networking Academy - Junior Cybersecurity Analyst](https://www.netacad.com/career-paths/cybersecurity)
+* [freeCodeCamp - Backend Development with Python](https://www.freecodecamp.org/news/backend-web-development-with-python-full-course/)
