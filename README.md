@@ -12,5 +12,5 @@
 ## 📚 **Recursos de Apoio na Minha Aprendizagem**
 
 * [Udemy – Learn Ethical Hacking From Scratch](https://www.udemy.com/course/learn-ethical-hacking-from-scratch/)
-* [freeCodeCamp - Backend Development with Python](https://www.freecodecamp.org/news/backend-web-development-with-python-full-course/)
+* [Ryan John - Python for Hackers](https://youtu.be/XWuP5Yf5ILI?si=BidwRwL4RuHwi_gm)
 * [TryHackMe - Pre Security > Cyber Security 101 > Jr Penetration Tester](https://tryhackme.com/)
